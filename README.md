@@ -25,10 +25,10 @@ Projeto criado para a prática de conceitos ensinados no curso do [Dev em Dobro]
 ## Screenshot
 
 ### Desktop
-![Desktop](src/images/anima%C3%A7%C3%A3o.gif)
+![Desktop](src/images/screenshot-desktop.gif)
 
 ### Mobile
-![Mobile](src/images/Anima%C3%A7%C3%A3o-mobile.gif)
+![Mobile](src/images/screenshot-mobile.gif)
 
 ### Links
 - URL: [Landing Page](https://alexjr53.github.io/Landing-Page-Ag-ncia-XYZ/)
