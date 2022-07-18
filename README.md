@@ -31,7 +31,7 @@ Projeto criado para a prática de conceitos ensinados no curso do [Dev em Dobro]
 ![Mobile](src/images/Anima%C3%A7%C3%A3o-mobile.gif)
 
 ### Links
-- URL: [Landing Page]()
+- URL: [Landing Page](https://alexjr53.github.io/Landing-Page-Ag-ncia-XYZ/)
 
 ## Meu processo
 
