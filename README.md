@@ -2,6 +2,8 @@
 
 Projeto criado para a prática de conceitos ensinados no curso do [Dev em Dobro](https://www.instagram.com/devemdobro/)
 
+[![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/Landing-Page-Agencia-XYZ/blob/main/LICENSE)
+
 ## Índice
 
 - [Visão geral](#visão-geral)
@@ -31,7 +33,7 @@ Projeto criado para a prática de conceitos ensinados no curso do [Dev em Dobro]
 ![Mobile](src/images/screenshot-mobile.gif)
 
 ### Links
-- URL: [Landing Page](https://alexjr53.github.io/Landing-Page-Ag-ncia-XYZ/)
+- URL da página : [Landing Page Agencia XYZ](https://alexjr53.github.io/Landing-Page-Ag-ncia-XYZ/)
 
 ## Meu processo
 
@@ -45,6 +47,7 @@ Projeto criado para a prática de conceitos de HTML e CSS e também com o intuit
 
 
 ## Autor
+Alexsandro rosa junior
 
 - GitHub - [Alexjr53](https://github.com/Alexjr53)
 - Frontend Mentor - [@Alexjr53](https://www.frontendmentor.io/profile/Alexjr53)
