@@ -1,6 +1,6 @@
 # Projeto Landing Page Agência XYZ
 
-Projeto criado para prática de conceitos ensinados no curso do [Dev em Dobro](https://www.instagram.com/devemdobro/)
+Projeto de uma landing page responsiva, com um menu hambúrguer para a versão mobile.
 
 [![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/Landing-Page-Agencia-XYZ/blob/main/LICENSE)
 
@@ -43,7 +43,7 @@ Projeto criado para prática de conceitos ensinados no curso do [Dev em Dobro](h
 - CSS
 
 ### Desenvolvimento
-Projeto criado para a prática de conceitos de HTML e CSS e também com o intuito de ensinar a fazer animações no CSS, e criar o menu hambúrguer para versões mobile.
+Projeto criado para praticar conceitos de HTML e CSS, e também para criar o menu hambúrguer para versões mobile.
 
 
 ## Autor
