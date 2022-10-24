@@ -13,21 +13,21 @@
 
     .header nav{
         position: absolute;
-        top: 8px;
-        right: 20px;
+        top: 0.8rem;
+        right: 2rem;
         z-index: 1;
     }
 
     .header nav ul{
-        width: 200px;
+        width: 20rem;
         background-color: #fff;
-        padding: 20px;
+        padding: 2rem;
     }
 
     .header nav ul a{
         text-align: center;
         display: block;
-        padding: 20px;
+        padding: 2rem;
     }
 }
 

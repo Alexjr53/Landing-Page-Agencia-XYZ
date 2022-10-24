@@ -1,6 +1,6 @@
 # Projeto Landing Page Agência XYZ
 
-Projeto criado para a prática de conceitos ensinados no curso do [Dev em Dobro](https://www.instagram.com/devemdobro/)
+Projeto criado para prática de conceitos ensinados no curso do [Dev em Dobro](https://www.instagram.com/devemdobro/)
 
 [![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/Landing-Page-Agencia-XYZ/blob/main/LICENSE)
 
@@ -27,10 +27,10 @@ Projeto criado para a prática de conceitos ensinados no curso do [Dev em Dobro]
 ## Screenshot
 
 ### Desktop
-![Desktop](src/images/screenshot-desktop.gif)
+![Desktop](src/design/screenshot-desktop.gif)
 
 ### Mobile
-![Mobile](src/images/screenshot-mobile.gif)
+![Mobile](src/design/screenshot-mobile.gif)
 
 ### Links
 - URL da página : [Landing Page Agencia XYZ](https://alexjr53.github.io/Landing-Page-Ag-ncia-XYZ/)
