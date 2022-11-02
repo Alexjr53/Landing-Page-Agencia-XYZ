@@ -33,7 +33,8 @@ Projeto de uma landing page responsiva, com um menu hambúrguer para a versão m
 ![Mobile](src/design/screenshot-mobile.gif)
 
 ### Links
-- URL da página : [Landing Page Agencia XYZ](https://alexjr53.github.io/Landing-Page-Ag-ncia-XYZ/)
+- URL da página : [Landing Page Agencia XYZ](https://alexjr53.github.io/Landing-Page-Agencia-XYZ/)
+- Repositório do projeto no GitHub: [Landing Page Agencia XYZ](https://github.com/Alexjr53/Landing-Page-Agencia-XYZ)
 
 ## Meu processo
 
