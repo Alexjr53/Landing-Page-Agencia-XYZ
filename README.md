@@ -46,7 +46,6 @@ Projeto de uma landing page responsiva, com um menu hambúrguer para a versão m
 ### Desenvolvimento
 Projeto criado para praticar conceitos de HTML e CSS, e também para criar o menu hambúrguer para versões mobile.
 
-
 ## Autor
 Alexsandro rosa junior
 
