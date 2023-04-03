@@ -14,7 +14,6 @@ Projeto de uma landing page responsiva, com um menu hambúrguer para a versão m
   - [Tecnologias-utilizadas](#tecnologias-utilizadas)
   - [Desenvolvimento](#desenvolvimento)
 - [Autor](#autor)
-- [Agradecimentos](#agradecimentos)
 
 ## Visão geral
 
@@ -51,6 +50,3 @@ Alexsandro rosa junior
 
 - GitHub - [Alexjr53](https://github.com/Alexjr53)
 - Frontend Mentor - [@Alexjr53](https://www.frontendmentor.io/profile/Alexjr53)
-
-## Agradecimentos
-Agradecimentos a equipe [Dev em Dobro](https://www.instagram.com/devemdobro/) que sugeriu a realização desse projeto como método de prática dos processos e conceitos ensinados ao longo do curso mentoreado por eles.
